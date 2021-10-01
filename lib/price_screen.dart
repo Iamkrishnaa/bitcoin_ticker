@@ -46,6 +46,8 @@ class _PriceScreenState extends State<PriceScreen> {
         style: TextStyle(
           color: Colors.white,
           fontWeight: FontWeight.bold,
+          
+          
         ),
       ));
     }
